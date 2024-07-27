@@ -8,7 +8,7 @@ This repository provides a knowledge graph-based intrusion detection (KG-ID) imp
 
 **extractionInfo.py**: extracts features and relations from CAN traffic
 
-**detect.py**: detect CAN messages
+**detect.py**: detects CAN messages
 
 **KG-ID.ttl**: knowledge graph saved as turtle format
 
